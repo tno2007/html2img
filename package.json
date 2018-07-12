@@ -1,0 +1,18 @@
+{
+  "name": "html2img",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-server-screenshot": "0.0.2",
+    "node-webshot": "^1.0.3",
+    "puppeteer": "^1.5.0",
+    "wkhtmltopdf": "^0.3.4"
+  }
+}
